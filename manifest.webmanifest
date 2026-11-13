@@ -1,0 +1,8 @@
+{
+  "name": "打光紀錄",
+  "short_name": "打光紀錄",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a5f"
+}
